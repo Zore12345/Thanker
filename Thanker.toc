@@ -1,0 +1,8 @@
+## Interface: 70000
+## Title: Lib: Thanker
+## Notes: Thanks people for summoning you.
+## Author: Forgent
+## Version: 1.0
+## DefaultState: enabled
+
+Thanker.lua
