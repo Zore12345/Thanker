@@ -1,5 +1,5 @@
 # Thanker
-Simple World of Warcraft addon to thank person who summons you.
+Simple World of Warcraft addon to add a button to thank person who summons you.
 
 ## Installation
 Navigate to your Warcraft Addon folder.  
