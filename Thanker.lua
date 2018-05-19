@@ -25,7 +25,6 @@ frame:RegisterEvent("CONFIRM_SUMMON");
 local function eventHandler(self, event, ...)
 	Button:Show()
 	summoner = GetSummonConfirmSummoner()
-	print(summoner);
 end
 frame:SetScript("OnEvent", eventHandler);
 
