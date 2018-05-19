@@ -1,5 +1,5 @@
 ## Interface: 70000
-## Title: Lib: Thanker
+## Title: Thanker
 ## Notes: Thanks people for summoning you.
 ## Author: Forgent
 ## Version: 1.0
